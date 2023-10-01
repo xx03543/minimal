@@ -1,8 +1,8 @@
 **Nurturing Maths Talents**
 
-# Mathematics Tutions @your Home 
+# Mathematics Tutions @your Location
 
-* Provide Home visits at your home
+* Provide Home visits at your location
 * One to one classes only. Hence Limited slots
 * 4 Slots per academic year
 * Admission closes before Feb/March month every academic year
@@ -10,12 +10,13 @@
 
 ## Courses / Syllabus
 
-Grades 7 to 12, all syllabus including State, CBSE, ICSE, IB, IGCSE
+* Mathematics for Grades 7 to 12
+* Any syllabus including State, CBSE, ICSE, IB, IGCSE
 
 ## Fee Structure
 
 * Starts from Rs 400 to 750 (Hourly) depending up on the distance and grades
-*  Minimal of 8 hours to 10 hours is required
+* Minimal of 8 - 10 hours is required per month
 
 #### Header 4
 
