@@ -19,5 +19,5 @@
 * Starts from Rs 400 to 750 (Hourly) depending up on the distance and grades
 * 8 - 10 hours is required per month
 
-#### Contact
-* call or watsapp 9538072190
+## Contact
+* Call or watsapp 9538072190
