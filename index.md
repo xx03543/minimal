@@ -2,7 +2,10 @@
 
 # Mathematics Tutions @your Home 
 
-Provide Home Visits at your convinience of your own home.
+* Provide Home visits at your home
+* Limited slots - 4 Slots per academic year
+* Admission closes before Feb/March month every academic year
+* For advance booking call 9538072190
 
 ## Grades / Syllabus
 
@@ -10,7 +13,8 @@ Grades 7 to 12, all syllabus including State, CBSE, ICSE, IB, IGCSE
 
 ## Fee Structure
 
-Starts from 400 to 750 (Hourly) depending up on the distance and grades
+* Starts from Rs 400 to 750 (Hourly) depending up on the distance and grades
+*  Minimal of 8 hours to 10 hours is required
 
 #### Header 4
 
