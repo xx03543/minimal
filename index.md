@@ -1,31 +1,16 @@
 **Nurturing Maths Talents**
 
-# Maths Tutions @ your own Home 
+# Mathematics Tutions @your Home 
 
 Provide Home Visits at your convinience of your own home.
 
-## Header 2
+## Grades / Syllabus
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Grades 7 to 12, all syllabus including State, CBSE, ICSE, IB, IGCSE
 
-### Header 3
+## Fee Structure
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+Starts from 400 to 750 (Hourly) depending up on the distance and grades
 
 #### Header 4
 
