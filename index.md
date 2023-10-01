@@ -1,11 +1,11 @@
 **Nurturing Maths Talents**
 
-# Mathematics Tutions @your Location
+# Admission
 
 * Provide Home visits at your location
 * One to one classes only. Hence Limited slots
 * 4 Slots per academic year
-* Admission closes before Feb/March month every academic year
+* Admission closes by Feb/March month every academic year
 * For advance booking call or watsapp **9538072190**
 
 ## Courses / Syllabus
@@ -16,7 +16,7 @@
 ## Fee Structure
 
 * Starts from Rs 400 to 750 (Hourly) depending up on the distance and grades
-* Minimal of 8 - 10 hours is required per month
+* 8 - 10 hours is required per month
 
 #### Header 4
 
