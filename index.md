@@ -19,5 +19,14 @@
 * Starts from Rs 400 to 750 (Hourly) depending up on the distance and grades
 * 8 - 10 hours is required per month
 
+| Grades  | Hourly Fees |
+| ------------- | ------------- |
+| Grade 7  | 400  |
+| Grade 8  | 425  |
+| Grade 9  | 450  |
+| Grade 10  | 450  |
+| Grade 11  | 550  |
+| Grade 12  | 600  |
+
 ## Contact
 * Call or watsapp 9538072190
