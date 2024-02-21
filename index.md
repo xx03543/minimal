@@ -1,7 +1,7 @@
 # Admission
 
 * Provide Home visits at your location
-* One to one classes only. Hence Limited slots
+* One to one classes/ Batch Mode available. 
 * 4 Slots per academic year
 * Admission closes by Feb/March month every academic year
 * For advance booking **call or watsapp 9538072190**
@@ -9,6 +9,7 @@
 ## Courses / Syllabus
 
 * Mathematics for Grades 7 to 12
+* Biology for Grades 9 to 12 
 * Any syllabus including State, CBSE, ICSE, IB, IGCSE
 * Complimentary Mathematics Olympiad sessions included
 * Daily assignments will be given for each day
@@ -16,17 +17,17 @@
 
 ## Fee Structure
 
-* Starts from Rs 400 to 750 (Hourly) depending up on the distance and grades
-* 8 - 10 hours is required per month
+* Mode 1 - At student's place - Rs 8000 Monthly
+* Mode 2 - Batch of 3 to 4 students starts from Rs 4000 [Address: Near Spandana Hospital, Sompura Gate]
 
-| Grades  | Hourly Fees |
+| Grades  | Monthly Fees |
 | ------------- | ------------- |
-| Grade 7  | 400  |
-| Grade 8  | 425  |
-| Grade 9  | 450  |
-| Grade 10  | 450  |
-| Grade 11  | 550  |
-| Grade 12  | 600  |
+| Grade 7  | 4000  |
+| Grade 8  | 4250  |
+| Grade 9  | 4500  |
+| Grade 10  | 4500  |
+| Grade 11  | 5500  |
+| Grade 12  | 6000  |
 
 ## Contact
 * Call or watsapp 9538072190
